@@ -1,0 +1,15 @@
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\bin\Debug\net6.0\homework_9(03_03_2023).exe
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\bin\Debug\net6.0\homework_9(03_03_2023).deps.json
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\bin\Debug\net6.0\homework_9(03_03_2023).runtimeconfig.json
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\bin\Debug\net6.0\homework_9(03_03_2023).dll
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\bin\Debug\net6.0\homework_9(03_03_2023).pdb
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).AssemblyInfo.cs
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).dll
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\refint\homework_9(03_03_2023).dll
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).pdb
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\homework_9(03_03_2023).genruntimeconfig.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\homework\homework_9(03_03_2023)\homework_9(03_03_2023)\obj\Debug\net6.0\ref\homework_9(03_03_2023).dll
